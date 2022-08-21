@@ -13,4 +13,10 @@ def substraction(a,b):
     return a-b
 
 ans=substraction(a,b)
-print()
+print(f"Substraction is {ans}")
+
+def multiplication(a,b):
+    return a*b
+
+ans=multiplication(a,b)
+print(f"Multiplication is {ans}")
